@@ -25,3 +25,5 @@ COPY --from=build /dist .
 
 CMD ["dotnet", "test123.dll"]
 
+#test
+
